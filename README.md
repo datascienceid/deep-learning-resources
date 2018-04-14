@@ -46,3 +46,6 @@ A curated list of deep learning resources books, courses, papers, libraries, con
 
 ### Libraries
 1. To-do
+
+## Contributing
+Jika anda ingin berkontribusi dalam github ini, sangat disarankan untuk `Pull Request` namun dengan resource berbahasa indonesia.
