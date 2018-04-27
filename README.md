@@ -6,19 +6,19 @@ A curated list of deep learning resources books, courses, papers, libraries, con
 
 * **[Courses](#courses)**
 
-* **[Videos and Lectures](#videos-and-lecturers)**
+* **[Videos and Lectures](#videos-and-lectures)**
 
-* **[Papers](papers)**
+* **[Papers](#papers)**
 
-* **[Tutorials](tutorials)**
+* **[Tutorials](#tutorials)**
 
-* **[Sample Code](sample-code)**
+* **[Sample Code](#sample-code)**
 
-* **[Datasets](datasets)**
+* **[Datasets](#datasets)**
 
-* **[Conferences](conferences)**
+* **[Conferences](#conferences)**
 
-* **[Libraries](libraries)**
+* **[Libraries](#libraries)**
 
 ### Free Books
 1.  [Deep Learning by Yoshua Bengio, Ian Goodfellow and Aaron Courville](http://www.deeplearningbook.org/)
