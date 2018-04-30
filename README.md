@@ -6,19 +6,19 @@ A curated list of deep learning resources books, courses, papers, libraries, con
 
 * **[Courses](#courses)**
 
-* **[Videos and Lectures](#videos-and-lecturers)**
+* **[Videos and Lectures](#videos-and-lectures)**
 
-* **[Papers](papers)**
+* **[Papers](#papers)**
 
-* **[Tutorials](tutorials)**
+* **[Tutorials](#tutorials)**
 
-* **[Sample Code](sample-code)**
+* **[Sample Code](#sample-code)**
 
-* **[Datasets](datasets)**
+* **[Datasets](#datasets)**
 
-* **[Conferences](conferences)**
+* **[Conferences](#conferences)**
 
-* **[Libraries](libraries)**
+* **[Libraries](#libraries)**
 
 ### Free Books
 1.  [Deep Learning by Yoshua Bengio, Ian Goodfellow and Aaron Courville](http://www.deeplearningbook.org/)
@@ -33,6 +33,7 @@ A curated list of deep learning resources books, courses, papers, libraries, con
 4.  [A.I - Berkeley](https://courses.edx.org/courses/BerkeleyX/CS188x_1/1T2013/courseware/)
 5.  [A.I - MIT](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/)
 6.  [Convolutional Neural Networks for Visual Recognition - Stanford](http://vision.stanford.edu/teaching/cs231n/syllabus.html)
+7.  [Practical Deep Learning For Coders](http://course.fast.ai/)
 
 ### Videos and Lectures
 1.  [Deep Learning, Self-Taught Learning and Unsupervised Feature Learning](https://www.youtube.com/watch?v=n1ViNeWhC24) By Andrew Ng
@@ -55,6 +56,7 @@ A curated list of deep learning resources books, courses, papers, libraries, con
 3.	[A Beginner’s Guide to Recurrent Networks and LSTMs](https://deeplearning4j.org/lstm.html)
 4.	[Recurrent Neural Networks Tutorial, Part 1 – Introduction to RNNs](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/)
 5.	[Stochastic Gradient Descent (SGD) with Python](https://www.pyimagesearch.com/2016/10/17/stochastic-gradient-descent-sgd-with-python/)
+6.     [A Guide to Deep Learning in PyTorch](http://belajar.machinelearning.id/panduan/pytorch/)
 
 ### Sample Code
 1. [Deep Learning with Python](https://github.com/Apress/deep-learning-w-python)
@@ -67,23 +69,24 @@ A curated list of deep learning resources books, courses, papers, libraries, con
 2.  [Google House Numbers](http://ufldl.stanford.edu/housenumbers/) from street view
 3.  [IMAGENET](http://www.image-net.org/)
 4.  [MNIST](http://yann.lecun.com/exdb/mnist/) Handwritten digits
-5.  [Tiny Images](http://groups.csail.mit.edu/vision/TinyImages/) 80 Million tiny images6.  
+5.  [Tiny Images](http://groups.csail.mit.edu/vision/TinyImages/) 80 Million tiny images6.
+6.  [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist) 
 
 ### Conferences
 1. [CVPR - IEEE Conference on Computer Vision and Pattern Recognition](http://cvpr2018.thecvf.com)
 2. [AAMAS - International Joint Conference on Autonomous Agents and Multiagent Systems](http://celweb.vuse.vanderbilt.edu/aamas18/)
 3. [IJCAI - 	International Joint Conference on Artificial Intelligence](https://www.ijcai-18.org/)
 4. [NIPS - Neural Information Processing Systems](https://nips.cc/Conferences/2018)
+5. [ICLR - International Conference on Learning Representations](https://iclr.cc/)
 
 ### Libraries
 1.	[Tensorflow](https://www.tensorflow.org/)
-21.	[Keras - Theano based Deep Learning Library](http://keras.io)
+21.	[Keras - A high-level neural networks API running on top of TensorFlow, CNTK, or Theano](http://keras.io)
 1.  [Caffe](http://caffe.berkeleyvision.org/)  
 2.  [Torch7](http://torch.ch/)
 3.  [Theano](http://deeplearning.net/software/theano/)
 32.	[MXnet - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning framework](https://github.com/dmlc/mxnet/)
-49.	[deeplearn.js - Hardware-accelerated deep learning and linear algebra (NumPy) library for the web](https://github.com/PAIR-code/deeplearnjs)
-
+49.	[TensorFlow.js - formerly known as deeplearn.js](https://github.com/tensorflow/tfjs-core)
 
 ## Contributing
 Jika anda ingin berkontribusi dalam github ini, sangat disarankan untuk `Pull Request` namun dengan resource berbahasa indonesia.
