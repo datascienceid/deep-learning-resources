@@ -57,6 +57,8 @@ A curated list of deep learning resources books, courses, papers, libraries, con
 4.	[Recurrent Neural Networks Tutorial, Part 1 – Introduction to RNNs](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/)
 5.	[Stochastic Gradient Descent (SGD) with Python](https://www.pyimagesearch.com/2016/10/17/stochastic-gradient-descent-sgd-with-python/)
 6.	[A Guide to Deep Learning in PyTorch](http://belajar.machinelearning.id/panduan/pytorch/)
+7.	[A Quick Introduction to Neural Networks](https://ujjwalkarn.me/2016/08/09/quick-intro-neural-networks/)
+8.	[An Intuitive Explanation of Convolutional Neural Networks](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/)
 
 ### Sample Code
 1. [Deep Learning with Python](https://github.com/Apress/deep-learning-w-python)
