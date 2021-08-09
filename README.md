@@ -34,14 +34,16 @@ A curated list of deep learning resources books, courses, papers, libraries, con
 5.  [A.I - MIT](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/)
 6.  [Convolutional Neural Networks for Visual Recognition - Stanford](http://vision.stanford.edu/teaching/cs231n/syllabus.html)
 7.  [Practical Deep Learning For Coders](http://course.fast.ai/)
+8.  [MIT 6.S191 Introduction to Deep Learning](http://introtodeeplearning.com/)
 
 ### Videos and Lectures
-1.  [Deep Learning, Self-Taught Learning and Unsupervised Feature Learning](https://www.youtube.com/watch?v=n1ViNeWhC24) By Andrew Ng
-2.  [Recent Developments in Deep Learning](https://www.youtube.com/watch?v=vShMxxqtDDs&amp;index=3&amp;list=PL78U8qQHXgrhP9aZraxTT5-X1RccTcUYT) By Geoff Hinton
+1.  [Deep Learning, Self-Taught Learning and Unsupervised Feature Learning](https://www.youtube.com/watch?v=n1ViNeWhC24) by Andrew Ng
+2.  [Recent Developments in Deep Learning](https://www.youtube.com/watch?v=vShMxxqtDDs&amp;index=3&amp;list=PL78U8qQHXgrhP9aZraxTT5-X1RccTcUYT) by Geoff Hinton
 3.  [The Unreasonable Effectiveness of Deep Learning](https://www.youtube.com/watch?v=sc-KbuZqGkI) by Yann LeCun
 4.  [Deep Learning of Representations](https://www.youtube.com/watch?v=4xsVFLnHC_0) by Yoshua bengio
-5.  [Making Sense of the World with Deep Learning](http://vimeo.com/80821560) By Adam Coates 
-6.	[How Deep Neural Network Work](https://www.youtube.com/watch?v=ILsA4nyG7I0&t=68s)
+5.  [Making Sense of the World with Deep Learning](http://vimeo.com/80821560) by Adam Coates 
+6.	[How Deep Neural Networks Work](https://www.youtube.com/watch?v=ILsA4nyG7I0)
+7.	[MIT 6.S191 Introduction to Deep Learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
 
 ### Papers
 1.  [ImageNet Classification with Deep Convolutional Neural Networks](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
